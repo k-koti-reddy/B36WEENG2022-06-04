@@ -1,0 +1,32 @@
+source: https://medium.com/@reach2arunprakash/guvi-zen-class-find-the-culprits-and-nail-them-9ee6c67c44fb
+
+1) fix.html
+Ans) No ending quotation.
+
+2) The quotation are unicode, otherwise the code looks good.
+
+3) The code works fine, added semicolon which is optional.
+
+4) Need to add space to print "GUVI geek"
+admin = fname+ " " +lname;
+
+5)Fix the below to alert hello Guvi geek
+Need to add back literals ``
+
+6)Fix the below to alert sum of two numbers
+Convert string to int using Number.parseInt();
+
+7)If you run the below scritpt you will get “Code is Blasted”. Explain Why the Code is blasted and how to diffuse it and get “Diffused”.
+when comparing two strings, the first letter of string is compared instead of whole string,
+in our case 2 is greater than 1.
+
+8)How to get the success in console.
+Convert output of prompt to int and enter 0
+
+9) How to get the correct score in console.
+Convert string to int.
+
+10)Fix the code to welcome the Employee
+After ? add Welcome message
+
+

@@ -1,0 +1,4 @@
+Part 2 : Find the culprits and nail them — debugging javascript loops
+
+Output: 1234567891011
+The for loop array has to increment starting from 0 and end less than array length.
